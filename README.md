@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EasylifeSubhan
-- 👀 I’m interested in app development
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me JavaScript
